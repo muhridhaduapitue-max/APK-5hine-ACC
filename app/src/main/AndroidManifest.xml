@@ -5,6 +5,7 @@
 
     <application
         android:allowBackup="true"
+        android:icon="@minimap/ic_laucher"
         android:label="5HINE"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
 
